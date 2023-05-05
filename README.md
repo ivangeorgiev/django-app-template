@@ -1,2 +1,2 @@
-# django-app-template
-Django reusable application template
+# djangoapp
+My Django App
